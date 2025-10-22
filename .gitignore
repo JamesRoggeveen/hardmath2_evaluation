@@ -1,0 +1,12 @@
+.env
+
+data/*.jsonl
+
+raw_csv/*
+
+**/__pycache__/*
+.venv/*
+uv.lock
+**.egg-info/*
+.python-version
+.DS_Store

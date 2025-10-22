@@ -1,7 +1,27 @@
 [project]
-name = "hardmath2-evaluation"
+name = "hm2eval"
 version = "0.1.0"
-description = "Add your description here"
+description = "Dataset and evaluation code for CMT Benchmark ICLR submission"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "anthropic>=0.68.0",
+    "datasets==3.5.1",
+    "dotenv>=0.9.9",
+    "google-genai==1.13.0",
+    "huggingface-hub>=0.16.4",
+    "matplotlib>=3.10.6",
+    "numpy==2.2.5",
+    "openai==1.73.0",
+    "pyyaml>=6.0",
+    "regex==2024.11.6",
+    "requests==2.32.2",
+    "sympy==1.13.3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.setuptools.packages.find]
+where = ["src"]
