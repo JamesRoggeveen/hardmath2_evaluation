@@ -10,3 +10,6 @@ uv.lock
 **.egg-info/*
 .python-version
 .DS_Store
+.venv/*
+.venv
+**/__pycache__
