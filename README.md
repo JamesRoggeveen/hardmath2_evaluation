@@ -210,12 +210,14 @@ For more details about the dataset and benchmark, see the paper:
 If you use this evaluation framework or the HARDMath2 dataset in your research, please cite the original paper:
 
 ```bibtex
-@inproceedings{roggeveen2025hardmath2,
-  title={HARDMath2: A Benchmark for Applied Mathematics Built by Students as Part of a Graduate Class},
-  author={Roggeveen, James V. and Wang, Erik Y. and Flintoft, Will and Donets, Peter and Nathwani, Lucy S. and Gutierrez, Nickholas and Ettel, David and Graf, Anton Marius and Dandavate, Siddharth and Nageswaran, Arjun and Ward, Raglan and Williamson, Ava and Mykland, Anne and Migacz, Kacper K. and Wang, Yijun and Bostan, Egemen and Nguyen, Duy Thuc and He, Zhe and Descoteaux, Marc L. and Yeung, Felix and Liu, Shida and Garc{\'\i}a Ponce, Jorge and Zhu, Luke and Chen, Yuyang and Ivshina, Ekaterina S. and Fernandez, Miguel and Kim, Minjae and Gumbs, Kennan and Tan, Matthew Scott and Yang, Russell and Hoang, Mai and Brown, David and Silveira, Isabella A. and Sykes, Lavon and Roman, Ahmed and Fredenberg, William and Chen, Yiming and Martin, Lucas and Tang, Yixing and Smith, Kelly Werker and Liao, Hongyu and Wilson, Logan G. and Cai, Alexander Dazhen and Biju, Andrea Elizabeth and Brenner, Michael P.},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2025}
-}
+@misc{roggeveen2025hardmath2,
+    author = {Roggeveen,  James V. and Wang,  Erik Y. and Flintoft,  Will and Donets,  Peter and Nathwani,  Lucy S. and Gutierrez,  Nickholas and Ettel,  David and Graf,  Anton Marius and Dandavate,  Siddharth and Nageswaran,  Arjun and Ward,  Raglan and Williamson,  Ava and Mykland,  Anne and Migacz,  Kacper K. and Wang,  Yijun and Bostan,  Egemen and Nguyen,  Duy Thuc and He,  Zhe and Descoteaux,  Marc L. and Yeung,  Felix and Liu,  Shida and Ponce,  Jorge García and Zhu,  Luke and Chen,  Yuyang and Ivshina,  Ekaterina S. and Fernandez,  Miguel and Kim,  Minjae and Gumbs,  Kennan and Tan,  Matthew Scott and Yang,  Russell and Hoang,  Mai and Brown,  David and Silveira,  Isabella A. and Sykes,  Lavon and Roman,  Ahmed and Fredenberg,  William and Chen,  Yiming and Martin,  Lucas and Tang,  Yixing and Smith,  Kelly Werker and Liao,  Hongyu and Wilson,  Logan G. and Cai,  Alexander Dazhen and Biju,  Andrea Elizabeth and Brenner,  Michael P.},
+    doi = {10.48550/ARXIV.2505.11774},
+    url = {https://arxiv.org/abs/2505.11774},
+
+    title = {HARDMath2: A Benchmark for Applied Mathematics Built by Students as Part of a Graduate Class},
+    publisher = {arXiv},
+    year = {2025}}
 ```
 
 ## License
