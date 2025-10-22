@@ -1,7 +1,7 @@
 [project]
 name = "hm2eval"
 version = "0.1.0"
-description = "Dataset and evaluation code for CMT Benchmark ICLR submission"
+description = "Dataset and evaluation code for HARDMath2 NeurIPS submission"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
