@@ -1,11 +1,6 @@
-"""
-Evaluator module evaluating mathematical solutions.
-"""
-
-import os
 import numpy as np
 from dataclasses import dataclass
-from typing import List, Dict, Any, Optional, Tuple, Union, Callable
+from typing import Dict, Any, Optional, Callable
 from . import parser
 from .parser import ParsingResult
 

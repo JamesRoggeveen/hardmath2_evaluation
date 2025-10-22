@@ -3,11 +3,10 @@ import asyncio
 from typing import Tuple
 import time
 from typing import List
-
+import anthropic
 from openai import AsyncOpenAI
 from google import genai
 from google.genai import types
-import anthropic
 from tqdm import tqdm
 import json
 from importlib import resources

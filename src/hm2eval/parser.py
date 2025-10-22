@@ -7,7 +7,7 @@ import numpy as np
 import argparse
 from typing import List, Tuple, Optional, Dict, Any, Union, Set
 from dataclasses import dataclass, field, asdict
-from benchmark_evaluator.parser_rules import deletion_rules, replacement_rules, function_rules, nested_rules, final_rules, known_functions, intermediate_functions, subsup_rewrite_pattern, subsup_pattern, sympy_symbols, beta_function_pattern, unicode_replacement_rules
+from .parser_rules import deletion_rules, replacement_rules, function_rules, nested_rules, final_rules, known_functions, intermediate_functions, subsup_rewrite_pattern, subsup_pattern, sympy_symbols, beta_function_pattern, unicode_replacement_rules
 
 class ParseError(Exception):
     """Base class for all parsing related errors"""

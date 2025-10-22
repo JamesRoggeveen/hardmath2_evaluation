@@ -1,0 +1,22 @@
+huggingface_dataset_name: "JVRoggeveen/HARDMath2"
+query_results_dir: "query_results"
+models:
+  GPT-4o: False
+  GPT-4.1: False
+  GPT-5: False
+  GPT-5-mini: False
+  GPT-5-nano: False
+  GPT-o3: False
+  GPT-o4-mini: False
+  Gemini 2.0 Flash: True
+  Gemini 2.5 Flash: False
+  Gemini 2.5 Pro: False
+  Claude 3.7 Sonnet: False
+  Claude 4.1 Sonnet: False
+  Claude 4.0 Sonnet: False
+  Claude 4.1 Opus: False
+  Claude 4.0 Opus: False
+  DeepSeek v3: False
+  DeepSeek R1: False
+  LLaMA Maverick: False
+  
